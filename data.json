@@ -3,20 +3,19 @@
       "id": 1,
       "name": "Laptop",
       "description": "A powerful gaming laptop.",
-      "image": "https://github.com/Rashmeetkaur19/json-data-repo/blob/main/laptop.jpg"
+      "image": "https://raw.githubusercontent.com/Rashmeetkaur19/json-data-repo/refs/heads/main/laptop.jpg"
     },
     {
       "id": 2,
       "name": "Smartphone",
       "description": "Latest flagship smartphone.",
-      "image": "https://github.com/Rashmeetkaur19/json-data-repo/blob/main/smartphone.jpg"
+      "image": "https://raw.githubusercontent.com/Rashmeetkaur19/json-data-repo/refs/heads/main/smartphone.jpg"
     },
     {
       "id": 3,
       "name": "Smartwatch",
       "description": "Feature-packed smartwatch.",
-      "image": "https://github.com/Rashmeetkaur19/json-data-repo/blob/main/smartwatch.jpg"
+      "image": "https://raw.githubusercontent.com/Rashmeetkaur19/json-data-repo/refs/heads/main/smartwatch.jpg"
     }
   ]
-  
   
