@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "A powerful gaming laptop.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "Latest flagship smartphone.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Smartwatch",
+      "description": "Feature-packed smartwatch.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
